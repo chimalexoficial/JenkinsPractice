@@ -1,2 +1,2 @@
-This isa sample file
+This is a sample file
 Created for jenkins practice
